@@ -1,0 +1,16 @@
+.continer-1 {
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10%;
+    margin: 10%;
+    background-color: black;
+}
+
+.header-1 {
+    color: white;
+    size: 50%;
+}
+
+.paragrap-1 {
+    color: white;
+}
